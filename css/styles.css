@@ -79,6 +79,14 @@
   --bs-highlight-bg: #fff3cd;
 }
 
+@font-face {
+  font-family: 'fc_friday';
+  src: url('../font/fc_friday_medium-webfont.woff') format('woff'),
+       url('../font/fc_friday_medium-webfont.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
 *,
 *::before,
 *::after {
