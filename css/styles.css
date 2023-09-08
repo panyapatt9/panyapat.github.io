@@ -11825,8 +11825,8 @@ html {
 }
 
 
-.grid-contianer{
-  display: grid;
-  grid: auto auto auto auto / auto auto;
-  grid-gap: 10px;
+.container{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap ;
 }
