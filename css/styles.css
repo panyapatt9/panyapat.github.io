@@ -11824,3 +11824,9 @@ html {
       }
 }
 
+
+.grid-contianer{
+  display: grid;
+  grid: auto auto auto auto / auto auto;
+  grid-gap: 10px;
+}
