@@ -601,8 +601,9 @@ progress {
 }
 
 .img-fluid {
-  max-width: 540;
+  width: 100%;
   height: auto;
+  object-fit: cover;
 }
 
 
